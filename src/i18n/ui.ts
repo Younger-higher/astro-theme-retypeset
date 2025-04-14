@@ -1,7 +1,7 @@
 export const ui = {
   'zh': {
-    title: '重新编排',
-    subtitle: '再现版式之美',
+    title: '朝花夕拾',
+    subtitle: '学习，应当是一种生活姿态。',
     description: 'Retypeset是一款基于Astro框架的静态博客主题，中文名为重新编排。本主题以活版印字为设计灵感，通过建立全新的视觉规范，对所有页面进行重新编排，打造纸质书页般的阅读体验，再现版式之美。所见皆为细节，方寸尽显优雅。',
     posts: '文章',
     tags: '标签',
@@ -9,7 +9,7 @@ export const ui = {
     toc: '目录',
   },
   'zh-tw': {
-    title: '重新編排',
+    title: '朝花夕拾',
     subtitle: '再現版式之美',
     description: 'Retypeset是一款基於Astro框架的靜態部落格主題，中文名為重新編排。本主題以活版印字為設計靈感，通過建立全新的視覺規範，對所有頁面進行重新編排，打造紙質書頁般的閱讀體驗，再現版式之美。所見皆為細節，方寸盡顯優雅。',
     posts: '文章',
@@ -27,8 +27,8 @@ export const ui = {
     toc: '目次',
   },
   'en': {
-    title: 'Retypeset',
-    subtitle: 'Revive the beauty of typography',
+    title: 'Harvest',
+    subtitle: 'Morning Blossoms, Evening Harvest',
     description: 'Retypeset is a static blog theme based on the Astro framework. Inspired by Typography, Retypeset establishes a new visual standard and reimagines the layout of all pages, creating a reading experience reminiscent of paper books, reviving the beauty of typography. Details in every sight, elegance in every space.',
     posts: 'Posts',
     tags: 'Tags',
